@@ -25,7 +25,7 @@ You should just paste a sparkliner.js link above `</body>`. It's really importan
 ##How to create a sparkline
 It's easy. Just do something like that:
 ```javascript
-// Create an array for our sparkline
+// Create a data array for our sparkline
 var myArray = [10, 30, 3, 8, 39, 25, 22, 89, 74, 7, 2, 40, 61, 17, 35, 31, 8, 14, 39, 32, 53]
 // Create a sparkline object
 var mySparkliner = new Sparkliner()
