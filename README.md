@@ -6,7 +6,7 @@
 ![SparklinerJS](/cover.png)
 
 # Three simple steps
-1. [Downoload it](/sparkliner.js);
+1. [Downoload it](https://raw.githubusercontent.com/Volorf/SparklinerJS/master/sparkliner.js);
 2. Add sparkliner.js to your page;
 3. Create a new sparkline object and set it up.
 
@@ -29,7 +29,7 @@ It's easy. Just do something like that:
 var myArray = [10, 30, 3, 8, 39, 25, 22, 89, 74, 7, 2, 40, 61, 17, 35, 31, 8, 14, 39, 32, 53]
 // Create a sparkline object
 var mySparkliner = new Sparkliner()
-// Define a html element ID for a sparkliner. It's place where we'll append our sparkliner
+// Define an html element ID for a sparkliner. It's place where we'll append our sparkliner
 mySparkliner.id = "sparkliner"
 // Pass an array and create SVG
 mySparkliner.create(myArray)
@@ -48,6 +48,9 @@ mySparkliner.circleColor = "#ffff00"
 // Circle marker radius
 mySparkliner.circleRadius = 6
 ```
-
-##How to play with SparklinerJS at Codepen
-Oh, buddy. It's more simple than eating a piece of cake. Just click on [this link](https://github.com/Volorf/SparklinerJS/sparkliner.js).
+Also you can define width and height of a sparkline canvas. But by default this parameters are defined by an html element (where we append our sparkliner).
+```javascript
+// Width and height
+mySparkliner.width = 600
+mySparkliner.height = 160
+```
