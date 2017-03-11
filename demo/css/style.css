@@ -1,0 +1,32 @@
+body {
+  background: #f4f5f6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  height: 100vh;
+}
+svg:not(:root) {
+  overflow: visible;
+}
+#container {
+  width: 600px;
+  height: 160px;
+  background: #fff;
+  margin: 32px;
+  padding: 48px;
+  border-radius: 16px;
+  box-shadow: 0px 48px 96px rgba(0, 0, 0, 0.05);
+}
+
+#sparkliner {
+  height: 100%;
+  width: 100%;
+}
+
+#container2 {
+  width: 600px;
+  height: 200px;
+  background: red;
+  margin-top: 400px;
+}
