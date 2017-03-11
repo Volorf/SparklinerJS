@@ -15,7 +15,7 @@
 ![SparklinerJS](/sparkliner.png)
 
 ## Can I look at demo?
-Of course, you can. [https://volorf.github.io/SparklinerJS/].
+Of course, you can. [Click here](https://volorf.github.io/SparklinerJS/).
 
 ##How to add sparkliner.js to my page
 You should just paste a sparkliner.js link above `</body>`. It's really important. Don't forget it.
