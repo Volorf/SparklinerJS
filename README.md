@@ -13,6 +13,7 @@
 **When you did it you can get something like this:**
 
 ![SparklinerJS](/sparkliner.png)
+
 [Demo](https://volorf.github.io/SparklinerJS/)
 
 ##How to add sparkliner.js to my page
