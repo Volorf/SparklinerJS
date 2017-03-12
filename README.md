@@ -19,8 +19,11 @@
 ##How to add sparkliner.js to my page
 You should just paste a sparkliner.js link above `</body>`. It's really important. Don't forget it.
 ```html
+<!-- A SparklinerJS link -->
 <script src="js/sparkliner.js"></script>
+<!-- A user sparkline setting link -->
 <script src="js/myScript.js"></script>
+<!--  A closed body tag -->
 </body>
 ```
 
@@ -39,15 +42,15 @@ mySparkliner.create(myArray)
 ##How to customize a sparkline
 You can change following a sparkline property:
 ```javascript
-// Stroke color
+// A stroke color
 mySparkliner.strokeColor = "#0000ff"
-// Stroke width
+// A stroke width
 mySparkliner.strokeWidth = 2
 // Show a circle marker or not
 mySparkliner.circleShow = true
-// Circle marker color
+// A circle marker color
 mySparkliner.circleColor = "#ffff00"
-// Circle marker radius
+// A circle marker radius
 mySparkliner.circleRadius = 6
 ```
 Also you can define width and height of a sparkline canvas. But by default this parameters are defined by an html element (where we append our sparkliner).
