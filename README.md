@@ -1,11 +1,11 @@
-## SparklinerJS — easy way to make a sparkline graph in web
+# SparklinerJS — an easy way to make a sparkline graph in web
 
 > A sparkline is a very small line chart, typically drawn without axes or coordinates. It presents the general shape of the variation (typically over time) in some measurement, such as temperature or stock market price, in a simple and highly condensed way.
 > - [Wikipedia](https://en.wikipedia.org/wiki/Sparkline).
 
 ![SparklinerJS](/cover.png)
 
-# Three simple steps
+## Three simple steps
 1. [Downoload it](https://raw.githubusercontent.com/Volorf/SparklinerJS/master/sparkliner.js);
 2. Add sparkliner.js to your page;
 3. Create a new sparkline object and set it up.
