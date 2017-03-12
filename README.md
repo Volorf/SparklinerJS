@@ -21,9 +21,9 @@ You should just paste a sparkliner.js link above `</body>`. It's really importan
 ```html
 <!-- A SparklinerJS link -->
 <script src="js/sparkliner.js"></script>
-<!-- A user sparkline setting link -->
+<!-- A user sparkline settings link -->
 <script src="js/myScript.js"></script>
-<!--  A closed body tag -->
+<!-- A closed body tag -->
 </body>
 ```
 
