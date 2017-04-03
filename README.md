@@ -59,3 +59,6 @@ Also you can define width and height of a sparkline canvas. But by default this 
 mySparkliner.width = 600
 mySparkliner.height = 160
 ```
+
+## Links
+[Linkedin](https://www.linkedin.com/in/oleg-frolov-6a6a4752/) | [Dribbble](https://dribbble.com/Volorf) | [Facebook](https://www.facebook.com/volorf)
