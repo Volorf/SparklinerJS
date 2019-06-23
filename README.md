@@ -27,7 +27,7 @@ You should just paste a sparkliner.js link above `</body>`. It's really importan
 </body>
 ```
 
-##How to create a sparkline
+## How to create a sparkline
 It's easy. Just do something like that:
 ```javascript
 // Create a data array for our sparkline
@@ -39,7 +39,7 @@ mySparkliner.id = "sparkliner"
 // Pass an array and create SVG
 mySparkliner.create(myArray)
 ```
-##How to customize a sparkline
+## How to customize a sparkline
 You can change following a sparkline property:
 ```javascript
 // A stroke color
